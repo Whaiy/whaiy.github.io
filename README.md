@@ -1,10 +1,6 @@
-# whaiy.github.io
-
-test
-
 # Write a Server with C Socket
 
-
+test
 
 [toc]
 
